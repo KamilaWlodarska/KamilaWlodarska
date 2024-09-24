@@ -14,10 +14,12 @@ What I am truly passionate about is the process of bringing ideas to life. I enj
 
 📷 Capturing moments through photography
 
+✏️ Sketching what comes to my mind
+
 🤸‍♂️ Working out to maintain a healthy lifestyle
 
 🎮 Playing video games
 
-## 
+##
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamilaWlodarska&layout=compact&theme=radical)
